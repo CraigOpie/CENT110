@@ -1,0 +1,5 @@
+Lucy Idalia,9,8,9,9,8,8,9
+Paco Vierra,8,9,8,8,8,8,7
+Leticia Bernal,9,8,9,9,9,8,7
+Kumar Patel,9,9,8,9,9,9,9
+Jackie Chan,8,8,8,9,8,8,7

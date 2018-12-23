@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>Test Saving File
+
+<menu>
+	<item>
+		<name>seafood pasta</name>
+		<foodType>entree</foodType>
+		<price>16.99</price>
+	</item>
+	<item>
+		<name>chicken wings</name>
+		<foodType>appetizer</foodType>
+		<price>8.99</price>
+	</item>
+	<item>
+		<name>New York cheesecake</name>
+		<foodType>dessert</foodType>
+		<price>7.99</price>
+	</item>
+	<item>
+		<name>chicken enchiladas</name>
+		<foodType>entree</foodType>
+		<price>12.99</price>
+	</item>
+	<item>
+		<name>calamari</name>
+		<foodType>appetizer</foodType>
+		<price>9.99</price>
+	</item>
+	<item>
+		<name>pumpkin pie</name>
+		<foodType>dessert</foodType>
+		<price>6.99</price>
+	</item>
+	<averagePrice>10.66</averagePrice>
+</menu>

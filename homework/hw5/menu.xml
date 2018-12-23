@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+
+<menu>
+    <item>
+        <name>taco</name>
+        <foodType>entree</foodType>
+        <price>12.00</price>
+    </item>
+    <item>
+        <name>pizza</name>
+        <foodType>entree</foodType>
+        <price>15.00</price>
+    </item>
+    <overallAvg>0.0</overallAvg>
+    <entreeAvg>0.0</entreeAvg>
+    <appAvg>0.0</appAvg>
+    <dessertAvg>0.0</dessertAvg>
+    <otherAvg>0.0</otherAvg>
+    <priceRange>
+        <maximum>15.00</maximum>
+        <minimum>12.00</minimum>
+    </priceRange>
+</menu>

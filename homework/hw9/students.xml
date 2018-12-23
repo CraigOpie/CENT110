@@ -1,0 +1,18 @@
+<?xml version"1.0" ?>
+<students>
+    <student>
+        <name>Jane Doe</name>
+        <major>CENT</major>
+        <credits>12</credits>
+    </student>
+    <student>
+        <name>John Doe</name>
+        <major>PHYS</major>
+        <credits>10</credits>
+    </student>
+    <student>
+        <name>Bill Gates</name>
+        <major>ICS</major>
+        <credits>7</credits>
+    </student>
+</students>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<data>
+    <subject>
+        <name>John</name>
+        <sex>M</sex>
+        <height>69.0</height>
+        <weight>250.0</weight>
+    </subject>
+    <subject>
+        <name>Jack</name>
+        <sex>M</sex>
+        <height>65.0</height>
+        <weight>170.0</weight>
+    </subject>
+    <subject>
+        <name>Chris</name>
+        <sex>F</sex>
+        <height>66</height>
+        <weight>120</weight>
+    </subject>
+</data>

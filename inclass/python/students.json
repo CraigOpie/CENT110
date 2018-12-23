@@ -1,0 +1,16 @@
+{
+    "students" : [
+        {
+            "major" : "CENT",
+            "name" : "Jane Doe"
+        },
+        {
+            "major" : "PHYS",
+            "name" : "John Doe"
+        },
+        {
+            "major" : "ICS",
+            "name" : "Bill Gates"
+        }
+    ]
+}
