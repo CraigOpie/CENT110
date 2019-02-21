@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """
-Names:   Craig Opie
-         Leslie Teruya
-Group:   4
+Name:    Craig Opie
 Class:   CENT110
 File:    project2.py
 
